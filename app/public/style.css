@@ -1,0 +1,18 @@
+body {
+	background-color: blue;
+	/*background-image: url('../images/paperfriends.jpg');*/
+/*	background-size: contain;
+	background-repeat: no-repeat;*/
+/*	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;*/
+
+}
+
+.jumbotron {
+	margin-top: 10%
+}
+
+.fa-check-square, .fa-list-alt {
+	margin-right: 10px
+}
